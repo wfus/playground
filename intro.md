@@ -1,2 +1,1 @@
-# A Project by Sally
-# A Project by Joe
+# Project by Sally and Joe
